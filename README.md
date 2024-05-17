@@ -1,3 +1,4 @@
+AIM
 # ALU
 ![image](https://github.com/RESMIRNAIR/ALU/assets/154305926/33dff162-59b3-44e2-886a-1ddd6e60979f)
 # ALU Arithmetic and Logic Operations
